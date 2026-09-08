@@ -14,8 +14,9 @@ public class Main {
 		// YOUR CODE GOES HERE!!!!
 		
 		System.out.println("I guess this works");
-		
-		
+		System.out.println("What's your name?");
+		String name = in.nextLine();
+		System.out.println("Nice to meet you," +name);
 		
 		
 		
