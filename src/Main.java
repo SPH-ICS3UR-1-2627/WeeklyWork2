@@ -1,8 +1,8 @@
 /*******************************
- * Name: Your name
+ * Name: Max
  * Class: ICS3U
- * Date: When it's due
- * Project Name:
+ * Date: September 11
+ * Project Name: Weekly Work 2
  * 
  * Project Description
  ********************************/
@@ -13,7 +13,7 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		// YOUR CODE GOES HERE!!!!
 		
-		
+		System.out.println("I guess this works");
 		
 		
 		
